@@ -6,15 +6,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Alfredo Hernández"
+title = "Sergi Vilardell"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://aldomann.com/"
+baseurl = "https://sergivilardell.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Alfredo Hernández &copy; {year}"
+copyright = "Sergi Vilardell &copy; {year}"
 
 ############################
 ## Advanced options below ##
