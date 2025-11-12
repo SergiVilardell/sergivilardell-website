@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: Universitat Politècnica de Catalunya
-    year: 2022
+    year: 2023
   - course: MSc in Modelling for Science
     institution: Universitat Autònoma de Barcelona
     year: 2016
@@ -17,16 +17,13 @@ interests:
 - Machine Learning
 - Extreme Value Theory
 organizations:
-- name: Universitat Politècnica de Catalunya
-  url: https://www.upc.edu/
-role: PhD Student
+- name: Barcelona Supercomputing Center
+  url: https://www.bsc.es
+role: Senior Researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sergi_vilardell
+  link: https://www.bsc.es/es/vilardell-moreno-sergi
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=2j2tZ3AAAAAJ&hl=ca
@@ -40,6 +37,6 @@ superuser: true
 title: Sergi Vilardell
 ---
 
-I am a PhD student in Universitat Politècnica de Catalunya. 
+I am a Senior Researcher at Barcelona Supercomputing Center. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
